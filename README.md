@@ -16,4 +16,7 @@ The gameplay is the same if you are playing on a 4-by-4 grid. The "X" player goe
 
 **Screen Shots** below:
 
+![Screenshot_TicTacToe Starting Interface](https://user-images.githubusercontent.com/76508661/125108616-e6e54700-e0ff-11eb-87bb-eadb4d95fba4.jpg)
+![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125108620-e9e03780-e0ff-11eb-9454-f3fcd4522284.jpg)
+![Screenshot_Game Complete](https://user-images.githubusercontent.com/76508661/125108627-eb116480-e0ff-11eb-9336-f6343c8c4cef.jpg)
 
