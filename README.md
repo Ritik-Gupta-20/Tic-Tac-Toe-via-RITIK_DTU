@@ -21,3 +21,7 @@ The gameplay is the same if you are playing on a 4-by-4 grid. The "X" player goe
 ![Screenshot_Kitna Kheloge Yr](https://user-images.githubusercontent.com/76508661/125108620-e9e03780-e0ff-11eb-9454-f3fcd4522284.jpg)
 
 ![Screenshot_Game Complete](https://user-images.githubusercontent.com/76508661/125108627-eb116480-e0ff-11eb-9336-f6343c8c4cef.jpg)
+
+![IMG_20210709_215419](https://user-images.githubusercontent.com/76508661/125108900-45122a00-e100-11eb-9668-8991506a7744.jpg)
+![IMG_20210709_215409](https://user-images.githubusercontent.com/76508661/125108908-480d1a80-e100-11eb-88f4-42bb2eb1e0f9.jpg)
+![IMG_20210709_215356](https://user-images.githubusercontent.com/76508661/125108912-493e4780-e100-11eb-8e2e-5649def95d82.jpg)
