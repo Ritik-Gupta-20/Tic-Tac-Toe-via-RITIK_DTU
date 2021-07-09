@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-via-RITIK_DTU
 Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media. Other games, such as Connect 4, are based on this classic.**
 
-#Gameplay**
+**# Gameplay**
 
 The goal of tic-tac-toe is to be the first player to get three in a row on a 3-by-3 grid or four in a row in a 4-by-4 grid. 
 
